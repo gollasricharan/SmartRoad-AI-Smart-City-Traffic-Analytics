@@ -212,6 +212,49 @@ The actual folder structure may vary depending on the files included in the repo
 3. Open-Meteo – https://open-meteo.com/
 4. JICA Hyderabad Traffic Survey Report – https://openjicareport.jica.go.jp/pdf/12150363_04.pdf
 
+
+## 🖼️ Application Screenshots
+
+### 1. City Intelligence Overview
+Displays road segments, mapped road length, road categories, and city coverage.
+
+![SmartRoad AI Overview](screenshots/overview.png)
+
+### 2. Interactive Road Network Map
+Visualizes Hyderabad road infrastructure with interactive road categories and map filters.
+
+![Interactive Road Map](screenshots/interactive-map.png)
+
+### 3. Accident Analysis
+Displays annual accident trends and year-wise accident comparisons from 2019 to 2023.
+
+![Accident Analysis](screenshots/accident-analysis.png)
+
+### 4. Road Risk Intelligence
+Compares illustrative road-hierarchy screening indices across six cities.
+
+![Road Risk Intelligence](screenshots/road-risk.png)
+
+### 5. Historical Traffic Survey
+Explores historical JICA Hyderabad traffic survey counts and movement information.
+
+![Traffic Survey](screenshots/traffic-survey.png)
+
+### 6. Passenger Car Unit Analysis
+Displays reported PCU totals and derived average PCU per hour.
+
+![PCU Analysis](screenshots/pcu-analysis.png)
+
+### 7. Historical Weather Analysis
+Visualizes historical weather variables and yearly trends.
+
+![Weather Analysis](screenshots/weather-analysis.png)
+
+### 8. Reports and Project Insights
+Shows road data availability and downloadable project summaries.
+
+![Reports and Insights](screenshots/reports-insights.png)
+
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository and its documentation.
