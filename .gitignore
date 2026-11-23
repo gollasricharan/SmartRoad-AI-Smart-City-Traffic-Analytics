@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+cache/
+# Large datasets
+data/
+
+# Downloaded files and cache
+cache/
+
+# Virtual environment
+venv/
